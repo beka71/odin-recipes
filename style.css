@@ -1,0 +1,12 @@
+h1{
+    text-align:center;
+    border:2px solid;
+    border-radius: 5px;
+}
+li{
+    font-style: italic;
+    ;}
+li :hover{
+    font-style: normal;
+    font-weight: bold;
+}
